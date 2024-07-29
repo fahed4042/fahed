@@ -75,3 +75,4 @@ bot.on('message', (msg) => {
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
+node server.js
